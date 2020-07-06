@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53d2d114-b45f-443c-8417-6636232fa0f2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
+  </component>
+  <component name="ProjectId" id="1busxa6Pxlv9iW5xB2l2MXHvEIq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dev/images/slider" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/images/slider" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dev/images/slider" />
+      <recent name="$PROJECT_DIR$/dev" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53d2d114-b45f-443c-8417-6636232fa0f2" name="Default Changelist" comment="" />
+      <created>1589493559491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589493559491</updated>
+      <workItem from="1589493562064" duration="942000" />
+      <workItem from="1589498036101" duration="1698000" />
+      <workItem from="1589670487911" duration="4767000" />
+      <workItem from="1589841291608" duration="521000" />
+      <workItem from="1592082252787" duration="1012000" />
+      <workItem from="1592174572264" duration="1991000" />
+      <workItem from="1593025351226" duration="6087000" />
+      <workItem from="1593365636103" duration="6295000" />
+      <workItem from="1593543633796" duration="307000" />
+      <workItem from="1593572745457" duration="3551000" />
+      <workItem from="1594063211026" duration="110000" />
+    </task>
+    <task id="LOCAL-00001" summary="added template">
+      <created>1593374058814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593374058814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added some home-page comments.">
+      <created>1593573142711</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593573142711</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added template" />
+    <MESSAGE value="added some home-page comments." />
+    <option name="LAST_COMMIT_MESSAGE" value="added some home-page comments." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2183" y="207" key="#Deployment" timestamp="1593370613869">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2183" y="207" key="#Deployment/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593370613869" />
+    <state x="440" y="202" key="#Deployment/0.23.1680.1027@0.23.1680.1027" timestamp="1593026334937" />
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593573708362">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593573708362" />
+    <state x="0" y="23" width="1920" height="1057" key="CommitChangelistDialog2" timestamp="1593573142448">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="1680" y="23" width="1920" height="1057" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593374057656" />
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1593573142448" />
+    <state x="100" y="123" width="1481" height="828" key="DiffContextDialog" timestamp="1593573244884">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1592174617546" />
+    <state x="1794" y="126" width="1692" height="852" key="DiffContextDialog/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593370614220" />
+    <state x="100" y="123" width="1481" height="828" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593573244884" />
+    <state x="1878" y="125" width="1720" height="857" key="DirDiffDialog" timestamp="1593366171509">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="1878" y="125" width="1720" height="857" key="DirDiffDialog/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593366171509" />
+    <state x="632" y="246" key="RollbackChangesDialog" timestamp="1593573119472">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="632" y="246" key="RollbackChangesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593573119472" />
+    <state x="2149" y="190" key="SettingsEditor" timestamp="1589671298548">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2149" y="190" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1589671298548" />
+    <state x="682" y="442" width="741" height="308" key="WebDeployment.AddServerDialog.v.1" timestamp="1593026240750">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="682" y="442" width="741" height="308" key="WebDeployment.AddServerDialog.v.1/0.23.1680.1027@0.23.1680.1027" timestamp="1593026240750" />
+    <state x="657" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593026615959">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="2431" y="472" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1589672793550" />
+    <state x="657" y="459" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027@0.23.1680.1027" timestamp="1593026615959" />
+    <state x="100" y="123" width="1480" height="827" key="dock-window-1" timestamp="1593573669993">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="100" y="123" width="1480" height="827" key="dock-window-1/0.23.1680.1027@0.23.1680.1027" timestamp="1593573669993" />
+    <state x="141" y="195" width="1141" height="548" key="find.popup" timestamp="1592174891494">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="141" y="195" width="1141" height="548" key="find.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1592174891494" />
+    <state x="2341" y="306" width="598" height="490" key="find.popup/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1589673632167" />
+    <state x="2534" y="281" width="538" height="525" key="ftp.server.browser" timestamp="1593370437434">
+      <screen x="1680" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2534" y="281" key="ftp.server.browser/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593370437434" />
+    <state x="747" y="274" width="538" height="525" key="ftp.server.browser/0.23.1680.1027@0.23.1680.1027" timestamp="1593026332169" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1593573636812">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1593387351673" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1593573636812" />
+  </component>
+</project>
