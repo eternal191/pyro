@@ -3316,3 +3316,10 @@ textarea.input-form:focus{
 .color_settings .switch-btn:hover{
     color: #e62b4a;
 }
+
+/*overrididden styles*/
+
+
+.font-size-20-px.sec_title.MB_45 {
+    font-size: 2rem;
+}
