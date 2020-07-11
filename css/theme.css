@@ -1867,6 +1867,7 @@ License URI:
     right: 60px;
     bottom: 3px;
     z-index: 4;
+    top: 138px;
 }
 .compay_date h5{
     text-transform: uppercase;
@@ -1877,7 +1878,7 @@ License URI:
     margin: 0 0 3px;
 }
 .compay_date h2{
-    font-size: 110px;
+    font-size: 24px;
     line-height: .9;
     letter-spacing: 4.4px;
     color: #000;
