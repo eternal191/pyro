@@ -3062,7 +3062,7 @@ textarea.input-form:focus{
 .dl-menu__wrap ul li.menu-item-has-children > a{
     position: relative;
 }
-.dl-menu__wrap ul li.menu-item-has-children > a:before{
+/*.dl-menu__wrap ul li.menu-item-has-children > a:before{
     position: absolute;
     right: -18px;
     top: 2px;
@@ -3072,7 +3072,7 @@ textarea.input-form:focus{
     font-size: 12px;
     color: #fff;
     line-height: .8;
-}
+}*/
 .dl-menu__wrap ul li.menu-item-has-children > a:hover:before{
     transform: rotate(-180deg);
 }
