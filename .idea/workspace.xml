@@ -16,8 +16,13 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53d2d114-b45f-443c-8417-6636232fa0f2" name="Default Changelist" comment="removed contact form.">
+    <list default="true" id="53d2d114-b45f-443c-8417-6636232fa0f2" name="Default Changelist" comment="changed the default theme color scheme to blue.">
+      <change afterPath="$PROJECT_DIR$/images/about/redcross_video_homepage_copy_resized.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/home_1/home-page-video-resized.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pyro.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyro.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,25 +61,27 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/about" />
+      <recent name="$PROJECT_DIR$/images/home_1" />
+      <recent name="$PROJECT_DIR$/dev/images/slider" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets/js" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/dev/images/slider" />
       <recent name="$PROJECT_DIR$/dev" />
       <recent name="$PROJECT_DIR$" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/dev/images/slider" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/assets/js" />
     </key>
   </component>
   <component name="StructureViewFactory">
     <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -95,7 +102,7 @@
       <workItem from="1593572745457" duration="3551000" />
       <workItem from="1594063211026" duration="110000" />
       <workItem from="1594648520465" duration="33000" />
-      <workItem from="1594648572814" duration="2901000" />
+      <workItem from="1594648572814" duration="8656000" />
     </task>
     <task id="LOCAL-00001" summary="added template">
       <created>1593374058814</created>
@@ -111,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593573142711</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="removed interior and exterior icons.  adjusted slider layer text.">
+      <created>1594655484686</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594655484686</updated>
+    </task>
+    <task id="LOCAL-00004" summary="changed the default theme color scheme to blue.">
+      <created>1594771588902</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594771588902</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +165,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added template" />
     <MESSAGE value="added some home-page comments." />
-    <option name="LAST_COMMIT_MESSAGE" value="added some home-page comments." />
+    <MESSAGE value="removed interior and exterior icons.  adjusted slider layer text." />
+    <MESSAGE value="changed the default theme color scheme to blue." />
+    <option name="LAST_COMMIT_MESSAGE" value="changed the default theme color scheme to blue." />
   </component>
   <component name="WindowStateProjectService">
     <state x="2183" y="207" key="#Deployment" timestamp="1593370613869">
@@ -164,17 +187,18 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="528" y="279" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1594648545820" />
-    <state x="0" y="23" width="1920" height="1057" key="CommitChangelistDialog2" timestamp="1593573142448">
+    <state x="0" y="23" width="1680" height="1027" key="CommitChangelistDialog2" timestamp="1594826847017">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
+    <state x="0" y="23" width="1680" height="1027" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1594771588754" />
     <state x="1680" y="23" width="1920" height="1057" key="CommitChangelistDialog2/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593374057656" />
-    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1593573142448" />
-    <state x="100" y="123" width="1481" height="828" key="DiffContextDialog" timestamp="1593573244884">
+    <state x="0" y="23" key="CommitChangelistDialog2/0.23.1680.1027@0.23.1680.1027" timestamp="1594826847017" />
+    <state x="100" y="123" width="1481" height="828" key="DiffContextDialog" timestamp="1594754206791">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="123" width="1480" height="827" key="DiffContextDialog/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1592174617546" />
     <state x="1794" y="126" width="1692" height="852" key="DiffContextDialog/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593370614220" />
-    <state x="100" y="123" width="1481" height="828" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593573244884" />
+    <state x="100" y="123" width="1481" height="828" key="DiffContextDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1594754206791" />
     <state x="1878" y="125" width="1720" height="857" key="DirDiffDialog" timestamp="1593366171509">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
@@ -183,10 +207,16 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="632" y="246" key="RollbackChangesDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1593573119472" />
-    <state x="2149" y="190" key="SettingsEditor" timestamp="1589671298548">
-      <screen x="1680" y="23" width="1920" height="1057" />
+    <state x="410" y="185" key="SettingsEditor" timestamp="1594826838210">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="2149" y="190" key="SettingsEditor/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1589671298548" />
+    <state x="410" y="185" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1594826838210" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2" timestamp="1594771591176">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1594771591176" />
+    <state x="440" y="276" key="Vcs.Push.Dialog.v2/0.23.1680.1027@0.23.1680.1027" timestamp="1594655486819" />
     <state x="682" y="442" width="741" height="308" key="WebDeployment.AddServerDialog.v.1" timestamp="1593026240750">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -200,21 +230,21 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="100" y="123" width="1480" height="827" key="dock-window-1/0.23.1680.1027@0.23.1680.1027" timestamp="1593573669993" />
-    <state x="141" y="195" width="1141" height="548" key="find.popup" timestamp="1594654232640">
+    <state x="141" y="195" width="1141" height="548" key="find.popup" timestamp="1594771483134">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="141" y="195" width="1141" height="548" key="find.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1592174891494" />
+    <state x="141" y="195" width="1141" height="548" key="find.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1594771483134" />
     <state x="2341" y="306" width="598" height="490" key="find.popup/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1589673632167" />
-    <state x="141" y="195" width="1141" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1594654232640" />
+    <state x="141" y="195" width="1141" height="548" key="find.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1594656968900" />
     <state x="2534" y="281" width="538" height="525" key="ftp.server.browser" timestamp="1593370437434">
       <screen x="1680" y="23" width="1920" height="1057" />
     </state>
     <state x="2534" y="281" key="ftp.server.browser/0.23.1680.1027/1680.23.1920.1057@1680.23.1920.1057" timestamp="1593370437434" />
     <state x="747" y="274" width="538" height="525" key="ftp.server.browser/0.23.1680.1027@0.23.1680.1027" timestamp="1593026332169" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1594654205508">
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1594826680978">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027/1680.23.1920.1057@0.23.1680.1027" timestamp="1593387351673" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1594654205508" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1594826680978" />
   </component>
 </project>
