@@ -449,7 +449,7 @@ License URI:
     top: 100px;
     z-index: 2;
 }
-.ab_img2:after{
+/*.ab_img2:after{
     position: absolute;
     top: -40px;
     left: 40px;
@@ -457,7 +457,7 @@ License URI:
     border: 10px solid #2b9bd0;
     width: 470px;
     height: 458px;
-}
+}*/
 .ab_img2 img{
     max-width: 100%;
     height: auto;
@@ -1092,7 +1092,7 @@ License URI:
 / 11. Testimonail Section
 ------------------------------------------------------*/
 .testimonial{
-    background: url(../images/bg/3.jpg) no-repeat fixed center / cover;
+    background: url(../images/bg/home4.jpg) no-repeat fixed center / cover;
     padding-bottom: 113px;
 }
 .testimonial_content{
