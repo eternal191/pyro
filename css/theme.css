@@ -1838,7 +1838,7 @@ License URI:
     position: relative;
     text-align: right;
 }
-.agency_img1:after{
+/*.agency_img1:after{
     position: absolute;
     right: 60px;
     top: 60px;
@@ -1847,7 +1847,7 @@ License URI:
     width: 530px;
     content: '';
     z-index: 6;
-}
+}*/
 .agency_img2{
     position: relative;
     text-align: left;
