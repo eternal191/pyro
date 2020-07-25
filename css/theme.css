@@ -3327,7 +3327,7 @@ textarea.input-form:focus{
     font-size: 2rem;
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
     .ab_img1 {
         display: none;
     }
