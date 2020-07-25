@@ -3326,3 +3326,9 @@ textarea.input-form:focus{
 .font-size-20-px.sec_title.MB_45 {
     font-size: 2rem;
 }
+
+@media screen and (max-width: 425px) {
+    .ab_img1 {
+        display: none;
+    }
+}
