@@ -484,6 +484,13 @@ License URI:
                 classout: "dl-animate-out-3"
             }
         });
+
+
+        var urlHash = document.location.href.split('/');
+        var [,,,,page] = document.location.href.split('/');
+        console.log(page);
+
+        $('a[href="'+page+'"]').addClass('yoyo');
     });
 
     /*--------------------------------------------------------
