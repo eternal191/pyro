@@ -1970,6 +1970,7 @@ License URI:
     display: inline-block;
     line-height: 32px;
     font-size: 16px;
+    padding-left: 1rem;
 }
 .serviceArea ul li i{
     color: #2b9bd0;
