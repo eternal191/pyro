@@ -490,7 +490,7 @@ License URI:
         var [,,,,page] = document.location.href.split('/');
         console.log(page);*/
 
-        $('a[href="'+page+'"]').addClass('yoyo');
+        //$('a[href="'+page+'"]').addClass('yoyo');
     });
 
     /*--------------------------------------------------------
