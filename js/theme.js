@@ -486,9 +486,9 @@ License URI:
         });
 
 
-        var urlHash = document.location.href.split('/');
+        /*var urlHash = document.location.href.split('/');
         var [,,,,page] = document.location.href.split('/');
-        console.log(page);
+        console.log(page);*/
 
         $('a[href="'+page+'"]').addClass('yoyo');
     });
