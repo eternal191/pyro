@@ -53,9 +53,9 @@ License URI:
     top: 0;
     width: 100%;
     z-index: 5;
-    background: transparent;
     padding: 39px 40px 0 45px;
     border-bottom: 2px solid rgba(255, 255, 255, .10);
+    background-color: black;
 }
 .logo{
     text-align: left;
