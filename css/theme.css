@@ -87,6 +87,9 @@ License URI:
     text-transform: uppercase;
     position: relative;
 }
+.mainmenu ul li a.active {
+    color: white;
+}
 .mainmenu ul li a:after{
     position: absolute;
     width: 0;
