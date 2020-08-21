@@ -6516,6 +6516,9 @@ button.close {
   margin-right: auto;
   margin-left: auto;
 }
+.center-block video {
+  width:100%;
+}
 .pull-right {
   float: right !important;
 }

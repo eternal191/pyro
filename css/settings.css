@@ -548,7 +548,7 @@ img.tp-slider-alternative-image	{
 	
 	display: inline-block;	
 	vertical-align: top;
-	z-index: 4;
+	z-index: 400;
 	opacity: 1;
 	transition:opacity 300ms ease-out !important;				
 }
@@ -580,7 +580,8 @@ img.tp-slider-alternative-image	{
 	left: 0;
 	right: 0;
 	padding: 5px;
-	opacity: 0;	
+	opacity: 1;
+	z-index: 4000;
 	transition: opacity .3s;
 	background-image: linear-gradient(to bottom, rgb(0,0,0) 13%, rgb(50,50,50) 100%);		
 	display:table;max-width:100%; overflow:hidden;box-sizing:border-box;

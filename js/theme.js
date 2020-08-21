@@ -33,7 +33,18 @@ License URI:
 */
 (function ($) {
     'use strict';
-    
+
+    /*--------------------------------------------------------
+ / 0. Revolution Slider
+ ----------------------------------------------------------*/
+    var revapi = jQuery('#rev_slider_video').show().revolution({
+        //hideAllCaptionAtLimit:'500',
+        delay: 7000,
+        responsiveLevels: [1400,1200, 1140, 778],
+        gridwidth: [1140, 1140, 920, 700, 380],
+        sliderLayout: 'fullscreen'
+    });
+
     /*--------------------------------------------------------
     / 1. Revolution Slider
     ----------------------------------------------------------*/
