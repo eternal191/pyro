@@ -549,7 +549,7 @@ img.tp-slider-alternative-image	{
 	display: inline-block;	
 	vertical-align: top;
 	z-index: 4;
-	opacity: 0;	
+	opacity: 1;
 	transition:opacity 300ms ease-out !important;				
 }
 
