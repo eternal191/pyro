@@ -51,19 +51,33 @@
                             <ul>
                                 <li class="menu-item-has-children">
                                     <a href="index.html">home</a>
+                                    <!--            <ul class="sub-menu">
+                                                    <li><a href="index.html">Home 01</a></li>
+                                                    <li><a href="index2.html">Home 02</a></li>
+                                                    <li><a href="index3.html">Home 03</a></li>
+                                                </ul>-->
                                 </li>
                                 <li><a href="about.html" class="active">About</a></li>
-                                <li class="menu-item-has-children">
-                                    <a href="services.html">Services</a>
+                                <li class="menu-item-has-children"><a href="services.html">Services</a>
+                                    <!--<ul class="sub-menu">
+                                        <li><a href="services.html">Service</a></li>
+                                        <li><a href="service_detail.html">Service Detail</a></li>
+                                    </ul>-->
                                 </li>
-                                <li>
-                                    <a href="contact.html">Contact</a>
-                                </li>
+                                <!--<li class="menu-item-has-children"><a href="#">Portfolio</a>
+                                    <ul class="sub-menu">
+                                        <li><a href="services.html">Portfolio v1</a></li>
+                                        <li><a href="portfolio2.html">Portfolio v2</a></li>
+                                        <li><a href="portfolio_detail.html">Portfolio Detail</a></li>
+                                    </ul>
+                                </li>-->
+                                <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </nav>
                     </div>
                     <div class="col-lg-2 col-sm-2 col-md-2">
                         <div class="navigator text-right">
+                            <!--<a class="search searchToggler" href="javascript:void(0);"><i class="mei-magnifying-glass"></i></a>-->
                             <a href="javascript:void(0);" class="menu mobilemenu hidden-sm hidden-md hidden-lg hidden-xs"><i class="mei-menu"></i></a>
                             <a id="open-overlay-nav" class="menu hamburger" href="javascript:void(0);"><i class="mei-menu"></i></a>
                         </div>
@@ -71,6 +85,9 @@
                 </div>
             </div>
         </header>
+        <!-- Header 01 -->
+
+        <!-- Search From -->
         <div class="searchFixed popupBG">
             <div class="container-fluid">
                 <a href="" id="sfCloser" class="sfCloser"></a>
@@ -88,6 +105,9 @@
                 </div>
             </div>
         </div>
+        <!-- Search From -->
+
+        <!-- PopUP Menu -->
         <div class="popup popup__menu">
             <a href="" id="close-popup" class="close-popup"></a>
             <div class="container mobileContainer">
@@ -141,13 +161,17 @@
                 </div>
             </div>
         </div>
+        <!-- PopUP Menu -->
+
+        <!-- Revolution Slider -->
         <section class="rev_slider">
             <div class="rev_slider_wrapper">
                 <div id="rev_slider_video" class="rev_slider" data-version="5.4.5">
                     <ul>
+                        <!-- BEGIN SLIDE -->
                         <li data-transition="fade">
                             <!-- required for background video, and will serve as the video's "poster/cover" image -->
-                            <img src="./assets/product-vid-thumb1.png"
+                            <img src="./images/slider/1_1.jpg"
                                  alt="Ocean"
                                  class="rev-slidebg"
                                  data-bgposition="center center"
@@ -156,19 +180,21 @@
                             <!-- HTML5 BACKGROUND VIDEO LAYER -->
                             <div class="rs-background-video-layer tp-videolayer"
                                  data-videomp4="./assets/home-page-video.mp4"
-                                 data-volume="50"
-                                 data-videopreload="none"
+                                 data-volume="100"
+                                 data-videopreload="auto"
                                  data-forcerewind="off"
                                  data-nextslideatend="false"
                                  data-videoloop="none"
                                  data-videocontrols="controls"
                             ></div>
-                        </li>
-                    </ul>
+                        </li><!-- END SLIDE -->
+                    </ul><!-- END SLIDES LIST -->
                 </div>
             </div>
         </section>
         <!-- Revolution Slider -->
+
+        <!-- Our Work Section -->
         <section class="commonSection our_work">
             <div class="videoWrap_2">
                 <img src="images/about/redcross_video_homepage_copy_resized.png" alt="">
@@ -191,6 +217,13 @@
                 </div>
             </div>
         </section>
+        <!-- Our Work Section -->
+
+        <!-- Why Choose Section -->
+
+        <!-- Why Choose Section -->
+
+        <!-- Ready Section -->
         <section class="commonSection ready">
             <div class="container">
                 <div class="row">
@@ -203,13 +236,17 @@
                 </div>
             </div>
         </section>
+        <!-- Ready Section -->
+
+
+        <!-- Ready Section -->
         <section class="commonSection">
             <div class="container">
                 <div class="row">
-                    <h2 class="sec_title text-center">PYROCHILL SNUFF BOMB</h2>
+                    <h2 class="sec_title text-center">PYROCHILL SC FIRE A UNIT</h2>
                     <div class="col-lg-6 col-sm-6 col-md-6 center-block">
-                        <video allowFullScreen="true" controls poster="./assets/product-vid-thumb1.png" playsinline muted loop>
-                            <source src="./assets/home-page-video.mp4" type="video/mp4">
+                        <video allowFullScreen="true" controls poster="https://mdbootstrap.com/img/Photos/Others/background.jpg" playsinline autoplay muted loop>
+                            <source src="./assets/big_buck_bunny.mp4" type="video/mp4">
                         </video>
                     </div>
                     <div class="col-lg-6 col-sm-6 col-md-6 center-block">
@@ -231,6 +268,9 @@
                 </div>
             </div>
         </section>
+        <!-- Ready Section -->
+
+        <!-- Footer Section -->
         <footer class="footer_1">
             <div class="container">
                 <div class="row">
@@ -274,7 +314,13 @@
                 </div>
             </div>
         </footer>
+        <!-- Footer Section -->
+
+        <!-- Bact To To -->
         <a id="backToTop" href="#" class=""><i class="fa fa-angle-double-up"></i></a>
+        <!-- Bact To To -->
+
+        <!-- Include All JS -->
         <script src="js/jquery.js"></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/modernizr.custom.js"></script>
@@ -302,5 +348,8 @@
         <script src="js/jquery.appear.js"></script>
         <script src="js/theme.js"></script>
         <!-- Include All JS -->
+
+
+
     </body>
 </html>
