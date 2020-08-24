@@ -616,7 +616,10 @@ License URI:
     /*--------------------------------------------------------
     / 17. Contact From Submit
     /----------------------------------------------------------*/
-    if ($("#contactForm").length > 0)
+
+
+
+    /*if ($("#contactForm").length > 0)
     {
         $("#contactForm").on('submit', function(e) {
             e.preventDefault();
@@ -673,7 +676,10 @@ License URI:
         $(".required").on('keyup', function() {
             $(this).removeClass('reqError');
         });
-    }
+    }*/
+
+
+
     
     /*--------------------------------------------------------
     / 18. Color Preset
