@@ -619,7 +619,7 @@ License URI:
 
 
 
-    /*if ($("#contactForm").length > 0)
+    if ($("#contactForm").length > 0)
     {
         $("#contactForm").on('submit', function(e) {
             e.preventDefault();
@@ -651,7 +651,7 @@ License URI:
             });
             if (required === 0)
             {
-                $.ajax({
+               /* $.ajax({
                     type: "POST",
                     url: 'ajax/mail.php',
                     data: {f_name: f_name, l_name: l_name, email: email, phone: phone, message: message},
@@ -664,7 +664,11 @@ License URI:
                             $("#con_submit").html('<span>Send Message</span>');
                         }, 2500);
                     }
-                });
+                });*/
+                
+                
+                console.log('form is formatted correctly');
+                
             }
             else
             {
@@ -676,7 +680,7 @@ License URI:
         $(".required").on('keyup', function() {
             $(this).removeClass('reqError');
         });
-    }*/
+    }
 
 
 
