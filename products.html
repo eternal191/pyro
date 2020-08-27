@@ -18,6 +18,12 @@
         <link rel="stylesheet" type="text/css" href="css/responsive.css"/>
         <link rel="stylesheet" type="text/css" href="css/presets/color1.css" id="colorChange"/>
         <link rel="icon"  type="image/png" href="images/favicon.png">
+
+        <style type="text/css">
+            .shopify-buy__layout-vertical {
+                text-align: initial !important;
+            }
+        </style>
     </head>
     <body class="about-page">
         <div class="preloader text-center">
@@ -33,8 +39,8 @@
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-2 col-sm-3 col-md-3">
-                        <div class="logo">
-                            <a href="index.html"><img src="images/logo.png" alt=""/></a>
+                        <div class="logo" style="float: right;">
+                            <a href="index.html"><img src="assets/text-logo.png" alt=""/></a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-sm-7 col-md-7">
@@ -142,7 +148,7 @@
                     <ul>
                         <li data-transition="fade">
                             <!-- required for background video, and will serve as the video's "poster/cover" image -->
-                            <img src="./assets/product-vid-thumb1.png"
+                            <img src="./assets/pc-snuff-bomb-complete.jpg"
                                  alt="Ocean"
                                  class="rev-slidebg"
                                  data-bgposition="center center"
@@ -150,7 +156,7 @@
                                  data-bgrepeat="no-repeat">
                             <!-- HTML5 BACKGROUND VIDEO LAYER -->
                             <div class="rs-background-video-layer tp-videolayer"
-                                 data-videomp4="./assets/home-page-video.mp4"
+                                 data-videomp4="./assets/pyrochill-snuff-bomb-single.mp4"
                                  data-volume="50"
                                  data-videopreload="none"
                                  data-forcerewind="off"
@@ -165,7 +171,7 @@
         </section>
         <section class="commonSection our_work">
             <div class="videoWrap_2">
-                <img src="images/about/redcross_video_homepage_copy_resized.png" alt="">
+                <img src="./assets/pc-snuff-bomb-complete.jpg" alt="">
             </div>
             <div class="container">
                 <div class="row">
@@ -174,12 +180,153 @@
                     <div class="col-lg-6 col-sm-6">
                         <div class="ab_detail_wrap">
                             <h4 class="sub_title">we have the affordable solution!</h4>
-                            <h2 class="sec_title">PYROCHILL SC FIRE A UNIT</h2>
+                            <h2 class="sec_title">PYROCHILL SNUFF BOMB</h2>
                             <p class="sec_desc">The all new PYROCHILL SC (self contained) Fire A (ancillary) unit is the
                                 first and one of a kind portable fire ancillary unit that easily installs on the ceiling
                                 of your kitchen, dining room, living room, hallways, bedrooms, basement, and outdoor
                                 entertainment areas. Rated and certified for all class A, B, C. fires.
                             </p>
+                            <div class="snuff-bomb-buy-button">
+                                <div id='product-component-1598538998477'></div>
+
+                                <script type="text/javascript">
+                                    /*<![CDATA[*/
+                                    (function () {
+                                        var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+                                        if (window.ShopifyBuy) {
+                                            if (window.ShopifyBuy.UI) {
+                                                ShopifyBuyInit();
+                                            } else {
+                                                loadScript();
+                                            }
+                                        } else {
+                                            loadScript();
+                                        }
+                                        function loadScript() {
+                                            var script = document.createElement('script');
+                                            script.async = true;
+                                            script.src = scriptURL;
+                                            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+                                            script.onload = ShopifyBuyInit;
+                                        }
+                                        function ShopifyBuyInit() {
+                                            var client = ShopifyBuy.buildClient({
+                                                domain: 'pyrochillsolutions.myshopify.com',
+                                                storefrontAccessToken: '9b9d32e92225a48e5d81ad87199727ad',
+                                            });
+                                            ShopifyBuy.UI.onReady(client).then(function (ui) {
+                                                ui.createComponent('product', {
+                                                    id: '5541292507291',
+                                                    node: document.getElementById('product-component-1598538998477'),
+                                                    moneyFormat: '%24%7B%7Bamount%7D%7D',
+                                                    options: {
+                                                        "product": {
+                                                            "styles": {
+                                                                "product": {
+                                                                    "@media (min-width: 601px)": {
+                                                                        "max-width": "calc(25% - 20px)",
+                                                                        "margin-left": "20px",
+                                                                        "margin-bottom": "50px"
+                                                                    }
+                                                                },
+                                                                "button": {
+                                                                    ":hover": {
+                                                                        "background-color": "#0082b4"
+                                                                    },
+                                                                    "background-color": "#0090c8",
+                                                                    ":focus": {
+                                                                        "background-color": "#0082b4"
+                                                                    }
+                                                                }
+                                                            },
+                                                            "buttonDestination": "modal",
+                                                            "contents": {
+                                                                "img": false,
+                                                                "title": false,
+                                                                "price": false,
+                                                                "options": false
+                                                            },
+                                                            "text": {
+                                                                "button": "Buy Now"
+                                                            }
+                                                        },
+                                                        "productSet": {
+                                                            "styles": {
+                                                                "products": {
+                                                                    "@media (min-width: 601px)": {
+                                                                        "margin-left": "-20px"
+                                                                    }
+                                                                }
+                                                            }
+                                                        },
+                                                        "modalProduct": {
+                                                            "contents": {
+                                                                "img": false,
+                                                                "imgWithCarousel": true,
+                                                                "button": false,
+                                                                "buttonWithQuantity": true
+                                                            },
+                                                            "styles": {
+                                                                "product": {
+                                                                    "@media (min-width: 601px)": {
+                                                                        "max-width": "100%",
+                                                                        "margin-left": "0px",
+                                                                        "margin-bottom": "0px"
+                                                                    }
+                                                                },
+                                                                "button": {
+                                                                    ":hover": {
+                                                                        "background-color": "#0082b4"
+                                                                    },
+                                                                    "background-color": "#0090c8",
+                                                                    ":focus": {
+                                                                        "background-color": "#0082b4"
+                                                                    }
+                                                                }
+                                                            },
+                                                            "text": {
+                                                                "button": "Add to cart"
+                                                            }
+                                                        },
+                                                        "cart": {
+                                                            "styles": {
+                                                                "button": {
+                                                                    ":hover": {
+                                                                        "background-color": "#0082b4"
+                                                                    },
+                                                                    "background-color": "#0090c8",
+                                                                    ":focus": {
+                                                                        "background-color": "#0082b4"
+                                                                    }
+                                                                }
+                                                            },
+                                                            "text": {
+                                                                "total": "Subtotal",
+                                                                "button": "Checkout"
+                                                            }
+                                                        },
+                                                        "toggle": {
+                                                            "styles": {
+                                                                "toggle": {
+                                                                    "background-color": "#0090c8",
+                                                                    ":hover": {
+                                                                        "background-color": "#0082b4"
+                                                                    },
+                                                                    ":focus": {
+                                                                        "background-color": "#0082b4"
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                });
+                                            });
+                                        }
+                                    })();
+                                    /*]]>*/
+                                </script>
+                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -200,27 +347,161 @@
         <section class="commonSection">
             <div class="container">
                 <div class="row">
-                    <h2 class="sec_title text-center">PYROCHILL SNUFF BOMB</h2>
+                    <h2 class="sec_title text-center">PYROCHILL SC FIRE A UNIT</h2>
                     <div class="col-lg-6 col-sm-6 col-md-6 center-block">
-                        <video allowFullScreen="true" controls poster="./assets/product-vid-thumb1.png" playsinline muted loop>
-                            <source src="./assets/home-page-video.mp4" type="video/mp4">
+                        <video allowFullScreen="true" muted="false" loop="loop" controls="controls" poster="./assets/ancillary-unit.png">
+                            <source src="./assets/pyrochill-ac-unit-vid.mp4" type="video/mp4">
                         </video>
                     </div>
-                    <div class="col-lg-6 col-sm-6 col-md-6 center-block">
+                    <div class="col-lg-6 col-sm-6 col-md-6 center-block" style="margin-top: 15px;">
+                        <h2>PYROCHILL YORU FAMILY TODAY</h2>
                         <p>
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
-                            ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj ksjdf sdkfj
+                            The all new PYROCHILL SC (self contained) Fire A (ancillary) unit is the first and one of a
+                            kind portable fire ancillary unit that easily installs on the ceiling of your kitchen,
+                            dining room, living room, hallways, bedrooms, basement, and outdoor entertainment areas.
+                            Rated and certified for all class A, B, C. fires.
                         </p>
+                        <div id='product-component-1598539830557'></div>
+                        <script type="text/javascript">
+                            /*<![CDATA[*/
+                            (function () {
+                                var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+                                if (window.ShopifyBuy) {
+                                    if (window.ShopifyBuy.UI) {
+                                        ShopifyBuyInit();
+                                    } else {
+                                        loadScript();
+                                    }
+                                } else {
+                                    loadScript();
+                                }
+                                function loadScript() {
+                                    var script = document.createElement('script');
+                                    script.async = true;
+                                    script.src = scriptURL;
+                                    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+                                    script.onload = ShopifyBuyInit;
+                                }
+                                function ShopifyBuyInit() {
+                                    var client = ShopifyBuy.buildClient({
+                                        domain: 'pyrochillsolutions.myshopify.com',
+                                        storefrontAccessToken: '9b9d32e92225a48e5d81ad87199727ad',
+                                    });
+                                    ShopifyBuy.UI.onReady(client).then(function (ui) {
+                                        ui.createComponent('product', {
+                                            id: '5541301125275',
+                                            node: document.getElementById('product-component-1598539830557'),
+                                            moneyFormat: '%24%7B%7Bamount%7D%7D',
+                                            options: {
+                                                "product": {
+                                                    "styles": {
+                                                        "product": {
+                                                            "@media (min-width: 601px)": {
+                                                                "max-width": "calc(25% - 20px)",
+                                                                "margin-left": "20px",
+                                                                "margin-bottom": "50px"
+                                                            },
+                                                            "text-align": "left"
+                                                        },
+                                                        "button": {
+                                                            ":hover": {
+                                                                "background-color": "#0082b4"
+                                                            },
+                                                            "background-color": "#0090c8",
+                                                            ":focus": {
+                                                                "background-color": "#0082b4"
+                                                            }
+                                                        }
+                                                    },
+                                                    "buttonDestination": "modal",
+                                                    "contents": {
+                                                        "img": false,
+                                                        "title": false,
+                                                        "price": false,
+                                                        "options": false
+                                                    },
+                                                    "text": {
+                                                        "button": "Buy Now"
+                                                    }
+                                                },
+                                                "productSet": {
+                                                    "styles": {
+                                                        "products": {
+                                                            "@media (min-width: 601px)": {
+                                                                "margin-left": "-20px"
+                                                            }
+                                                        }
+                                                    }
+                                                },
+                                                "modalProduct": {
+                                                    "contents": {
+                                                        "img": false,
+                                                        "imgWithCarousel": true,
+                                                        "button": false,
+                                                        "buttonWithQuantity": true
+                                                    },
+                                                    "styles": {
+                                                        "product": {
+                                                            "@media (min-width: 601px)": {
+                                                                "max-width": "100%",
+                                                                "margin-left": "0px",
+                                                                "margin-bottom": "0px"
+                                                            }
+                                                        },
+                                                        "button": {
+                                                            ":hover": {
+                                                                "background-color": "#0082b4"
+                                                            },
+                                                            "background-color": "#0090c8",
+                                                            ":focus": {
+                                                                "background-color": "#0082b4"
+                                                            }
+                                                        },
+                                                        "title": {
+                                                            "font-size": "31px"
+                                                        }
+                                                    },
+                                                    "text": {
+                                                        "button": "Add to cart"
+                                                    }
+                                                },
+                                                "cart": {
+                                                    "styles": {
+                                                        "button": {
+                                                            ":hover": {
+                                                                "background-color": "#0082b4"
+                                                            },
+                                                            "background-color": "#0090c8",
+                                                            ":focus": {
+                                                                "background-color": "#0082b4"
+                                                            }
+                                                        }
+                                                    },
+                                                    "text": {
+                                                        "total": "Subtotal",
+                                                        "button": "Checkout"
+                                                    }
+                                                },
+                                                "toggle": {
+                                                    "styles": {
+                                                        "toggle": {
+                                                            "background-color": "#0090c8",
+                                                            ":hover": {
+                                                                "background-color": "#0082b4"
+                                                            },
+                                                            ":focus": {
+                                                                "background-color": "#0082b4"
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                        });
+                                    });
+                                }
+                            })();
+                            /*]]>*/
+                        </script>
                     </div>
                 </div>
             </div>
@@ -230,7 +511,7 @@
                 <div class="row">
                     <div class="col-lg-5 col-sm-6 col-md-5">
                         <aside class="widget aboutwidget">
-                            <a href="#"><img src="images/foo_logo.png" alt=""></a>
+                            <a href="#"><img src="assets/text-logo.png" alt=""></a>
                             <p>
                                 When a FIRE ANCILLARY SYSTEM is not an option... we have the affordable solution!
                             </p>
