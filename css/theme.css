@@ -1983,10 +1983,15 @@ License URI:
     margin-right: 10px;
     line-height: 36px;
 }
+
+.meipaly_services_help img {
+    max-width: 100%;
+    max-height: 100%;
+}
 .meipaly_services_help{
     position: relative;
-    background: url(../images/s3.jpg) no-repeat center center / cover;
-    padding: 47px 50px 47px;;
+    padding: 20px 20px 20px;
+    background-color: #86c9e7;
 }
 .meipaly_services_help h4{
     font-size: 18px;
