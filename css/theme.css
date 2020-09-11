@@ -1931,6 +1931,9 @@ License URI:
 .service_detail{
     padding-bottom: 82px;
 }
+.service_detail.remove-padding {
+    padding-bottom: 0px;
+}
 .serviceArea{
     position: relative;
 }
@@ -3342,3 +3345,36 @@ textarea.input-form:focus{
 .mainmenu ul li a:after{
     width: 100%;
 }*/
+
+
+.material-sheet ul li i {
+    color: #2b9bd0;
+    margin: 1rem 1rem 0 0;
+}
+.material-sheet ul li {
+    margin: 1rem 1rem 0 0;
+}
+
+
+
+
+
+#accordion {
+    margin: 20px;
+}
+
+.panel-group .panel, .panel-heading {
+    border-radius: 0;
+}
+
+.panel-heading {
+    height: 60px;
+}
+
+.panel-primary {
+    border: none;
+}
+
+.panel-title a{
+    text-decoration: none;
+}
