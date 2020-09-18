@@ -34,6 +34,70 @@ License URI:
 (function ($) {
     'use strict';
 
+
+
+    /*--------------------------------------------------------
+ / 0. link randomizer
+ ----------------------------------------------------------*/
+
+    var categorie_widgetElm = jQuery('.meipaly_categorie_widget ul');
+
+    function shuffle(arra1) {
+        var ctr = arra1.length, temp, index;
+
+// While there are elements in the array
+        while (ctr > 0) {
+// Pick a random index
+            index = Math.floor(Math.random() * ctr);
+// Decrease ctr by 1
+            ctr--;
+// And swap the last element with it
+            temp = arra1[ctr];
+            arra1[ctr] = arra1[index];
+            arra1[index] = temp;
+        }
+        return arra1;
+    }
+    /*var myArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];*/
+    var myArray = [
+        'automobile_solutions',
+        'bizz_opps',
+        'carpet_inspection',
+        'curtains_and_upholstry',
+        'electrical_cords',
+        'fireplace_parimeters',
+        'kitchen_analysis',
+        'rv_solutions',
+        'sc_fire_init',
+        'smoke_detectors',
+        'spaceheater'
+    ];
+
+        shuffle(myArray);
+
+        myArray.forEach(function (item) {
+
+            var li = document.createElement("li");
+
+            var link = document.createElement("a");
+            link.href = './' + item + '.html';
+            link.innerHTML = item;
+            li.appendChild(link);
+            categorie_widgetElm.append(li);
+
+        });
+
+
+
+
+
+
+
+
+
+
+
+
     /*--------------------------------------------------------
  / 0. Revolution Slider
  ----------------------------------------------------------*/
