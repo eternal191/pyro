@@ -736,7 +736,7 @@ License URI:
             }
             else
             {
-                $("#con_submit").html('<span>Failed!</span>');
+                $("#con_submit").html('<span>Submission Failed!</span>');
             }
 
         });

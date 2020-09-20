@@ -2640,6 +2640,7 @@ textarea.input-form:focus{
     list-style: none;
     display: block;
     margin: 0 0 12px;
+    text-transform: uppercase;
 }
 .meipaly_categorie_widget ul li:last-of-type{
     margin-bottom: 0
