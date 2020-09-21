@@ -3390,3 +3390,12 @@ textarea.input-form:focus{
 .panel-title a{
     text-decoration: none;
 }
+
+input[type="checkbox"]:checked:before {
+    content: '';
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    background-color: #2b9bd0;
+    border-radius: 2px;
+}
