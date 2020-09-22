@@ -6518,6 +6518,7 @@ button.close {
 }
 .center-block video {
   width:100%;
+  box-shadow: -2px 4px 35px 0px rgb(0 0 0);
 }
 .pull-right {
   float: right !important;

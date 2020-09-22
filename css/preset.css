@@ -150,6 +150,10 @@ ul li{
     padding: 120px 0;
     position: relative;
 }
+
+.commonSection.scunit-bg-img {
+background: url(../images/bg/pyro4_redo.jpg) no-repeat fixed center / cover;
+}
 .commonSection .container{
     position: relative;
     z-index: 2;

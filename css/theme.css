@@ -1097,7 +1097,7 @@ License URI:
 / 11. Testimonail Section
 ------------------------------------------------------*/
 .testimonial{
-    background: url(../images/bg/home4.jpg) no-repeat fixed center / cover;
+    background: url(../images/bg/pyro4_redo.jpg) no-repeat fixed center / cover;
     padding-bottom: 113px;
 }
 .testimonial_content{
@@ -1122,11 +1122,11 @@ License URI:
     line-height: 62px;
     letter-spacing: 2px;
     text-transform: uppercase;
-    color: #fff;
+    color: #000000;
     margin: 0 0 44px;
 }
 .testimonial_content h2 span{
-    color: #0090c8;
+    color: #2083aa;
 }
 .testimonial_content p{
     font-size: 20px;
