@@ -153,7 +153,12 @@ ul li{
 
 .commonSection.testimonial {
     padding: 60px 0;
+}
 
+@media (max-width: 768px) {
+    .commonSection.testimonial {
+        background-position: center center;
+    }
 }
 
 .commonSection.scunit-bg-img {
