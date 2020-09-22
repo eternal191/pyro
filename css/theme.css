@@ -1128,7 +1128,7 @@ License URI:
     margin: 0 0 44px;
 }
 .testimonial_content h2 span{
-    color: #2083aa;
+    color: #34afdf;
 }
 .testimonial_content p{
     font-size: 20px;
@@ -1813,6 +1813,7 @@ License URI:
     min-height: 465px;
     background: url(../images/bg/pyro3_redo.jpg) no-repeat center center / cover;
     padding-top: 224px;
+    background-position: 52% 84px;
 }
 .banner_content{
     position: relative;
