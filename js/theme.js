@@ -70,7 +70,7 @@ License URI:
         'rv_solutions',
         'sc_fire_init',
         'smoke_detectors',
-        'spaceheater'
+        'space_heater'
     ];
 
         shuffle(myArray);
@@ -81,7 +81,8 @@ License URI:
 
             var link = document.createElement("a");
             link.href = './' + item + '.html';
-            link.innerHTML = item;
+            var formatted_link = item.replace(/[_-]/g, " ").toUpperCase();
+            link.innerHTML = formatted_link;
             li.appendChild(link);
             categorie_widgetElm.append(li);
 
