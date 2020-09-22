@@ -2648,6 +2648,7 @@ textarea.input-form:focus{
     display: block;
     margin: 0 0 12px;
     text-transform: uppercase;
+    border-bottom: 1px solid white;
 }
 .meipaly_categorie_widget ul li:last-of-type{
     margin-bottom: 0
@@ -2656,7 +2657,7 @@ textarea.input-form:focus{
     display: inline-block;
     font-size: 16px;
     line-height: 22px;
-    color: #818181;
+    color: #000000;
 }
 .meipaly_categorie_widget ul li a:hover{
     color: #000;
