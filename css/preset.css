@@ -162,7 +162,19 @@ ul li{
 }
 
 .commonSection.scunit-bg-img {
-background: url(../images/bg/pyro4_redo.jpg) no-repeat fixed center / cover;
+    background: url(../images/bg/pyro4_redo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.commonSection.scunit-bg-img p.sc-unit-txt {
+    color: black !important;
+}
+
+@media (max-width: 768px) {
+    .commonSection.scunit-bg-img {
+        background-position: center center;
+    }
 }
 .commonSection .container{
     position: relative;
