@@ -151,6 +151,11 @@ ul li{
     position: relative;
 }
 
+.commonSection.testimonial {
+    padding: 60px 0;
+
+}
+
 .commonSection.scunit-bg-img {
 background: url(../images/bg/pyro4_redo.jpg) no-repeat fixed center / cover;
 }
