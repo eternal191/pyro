@@ -207,6 +207,9 @@ ul li{
     text-transform: uppercase;
     margin: 0 0 25px;
 }
+.sec_title.newsletter {
+    font-size: 25px;
+}
 .red_color{
     color: #2b9bd0;
 }
