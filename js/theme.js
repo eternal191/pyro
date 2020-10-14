@@ -61,14 +61,12 @@ License URI:
     /*var myArray = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9];*/
     var myArray = [
         'automobile_solutions',
-        'bizz_opps',
         'carpet_inspection',
         'curtains_and_upholstry',
         'electrical_cords',
         'fireplace_parimeters',
         'kitchen_analysis',
         'rv_solutions',
-        'sc_fire_init',
         'smoke_detectors',
         'space_heater'
     ];
