@@ -167,15 +167,23 @@ ul li{
 }
 
 .commonSection.scunit-bg-img {
-    background: url(../images/bg/pyro4_redo.jpg);
+    background: url(../images/bg/fire-flame-3.jpg);
+    background-position-y: 36%;
     background-repeat: no-repeat;
     background-size: cover;
     padding: 29px 0 !important;
 }
-
-.commonSection.scunit-bg-img p.sc-unit-txt {
-    color: black !important;
+.commonSection.scunit-bg-img.product-flame h2 {
+    color: #0090c8;
+    font-weight: 600;
 }
+.commonSection.scunit-bg-img.product-flame p {
+    color: white;
+}
+
+/*.commonSection.scunit-bg-img p.sc-unit-txt {
+    color: black !important;
+}*/
 
 @media (max-width: 768px) {
     .commonSection.scunit-bg-img {

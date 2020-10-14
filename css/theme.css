@@ -1097,10 +1097,11 @@ License URI:
 / 11. Testimonail Section
 ------------------------------------------------------*/
 .testimonial{
-    background: url(../images/bg/pyro4_redo.jpg);
+    background: url(../images/bg/fire_match.jpg);
     /*padding-bottom: 113px;*/
     background-repeat: no-repeat;
     background-size: cover;
+    background-position:center;
 }
 .testimonial_content{
     position: relative;
@@ -1127,8 +1128,11 @@ License URI:
     color: #000000;
     margin: 0 0 44px;
 }
-.testimonial_content h2 span{
-    color: #34afdf;
+.testimonial_content h2 span {
+    color: white;
+    padding-top: 14rem;
+    display: inline-block;
+    font-weight: 600;
 }
 .testimonial_content p{
     font-size: 20px;
@@ -1266,7 +1270,7 @@ License URI:
 .footer_1 .widget .widget_title {
     font-size: 18px;
     letter-spacing: .72px;
-    color: #FFF;
+    color: #0090c8;
     line-height: .8;
     margin: 0 0 43px;
     position: relative;
@@ -1958,6 +1962,30 @@ License URI:
     text-align: center;
 }
 .ab_detail_wrap a.buy-now-btn:hover{
+    background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+    background-color:#019ad2;
+}
+
+.subscribefrom a.buy-now-btn {
+    display: block;
+    margin: 10px;
+    box-shadow: 0px 1px 0px 0px #f0f7fa;
+    background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+    background-color:#33bdef;
+    border-radius:6px;
+    border:1px solid #057fd0;
+    cursor:pointer;
+    color:#ffffff;
+    font-family:Arial;
+    font-size:15px;
+    font-weight:bold;
+    padding:6px 24px;
+    text-decoration:none;
+    text-shadow:0px -1px 0px #5b6178;
+    height: 5rem;
+    text-align: center;
+}
+.subscribefrom a.buy-now-btn:hover{
     background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
     background-color:#019ad2;
 }
